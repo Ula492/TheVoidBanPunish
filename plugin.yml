@@ -1,0 +1,13 @@
+name: TheVoidBanPunish
+version: 1.0
+description: null
+author: Ula
+main: net.thevoidmc.ula.Main
+
+commands:
+  punish:
+    description: Punish Players
+
+permissions:
+  p.use:
+    default: op
